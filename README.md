@@ -1,5 +1,6 @@
 # GA_maze
-Processing AI Assignment using adaptive Genetic Algorithm to solve a maze. Partially based off of repository https://github.com/greerviau/Obstacle-Navigation/tree/master/ObstacleNavigation to start out with, I recommend looking there to build your own GA or just test it out if you want to learn!
+Processing AI Assignment using adaptive Genetic Algorithm to solve a maze.
+Partially based off of repository https://github.com/greerviau/Obstacle-Navigation/tree/master/ObstacleNavigation to start out with, I recommend looking there to build your own GA or just test it out if you want to learn!
 
 Dan Jensen
 Group number 17
@@ -26,11 +27,11 @@ After installing Processing, go to Tools> Manage Tools.. and switch to the Libra
 Following this step, you may clone this repository to your local hard drive and run the program by opening the GA_maze file in Processing.
 
 # Controls
-****** SET CROSSOVERRATE TO 0 FOR STOCHASTIC BEAM ******
-****** Press 1, 2, or 3 to change crossover operator ******
-****** Press 4 or 5 to change mutation operator ******
-****** Press 6 for GA or 7 for "OPTIMAL GA" strategy ******
-****** Press UP or DOWN to adjust mutation rate ******
-****** Press LEFT or RIGHT to adjust crossover rate ******
-****** Press Z or X to adjust fitness value: ******
-****** Press SPACE to start ******
+\* SET CROSSOVERRATE TO 0 FOR STOCHASTIC BEAM ******\
+\****** Press 1, 2, or 3 to change crossover operator ******\
+\****** Press 4 or 5 to change mutation operator ******\
+\****** Press 6 for GA or 7 for "OPTIMAL GA" strategy ******\
+\****** Press UP or DOWN to adjust mutation rate ******\
+\****** Press LEFT or RIGHT to adjust crossover rate ******\
+\****** Press Z or X to adjust fitness value: ******\
+\****** Press SPACE to start *
