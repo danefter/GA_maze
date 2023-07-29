@@ -23,8 +23,8 @@ and run it:
 Click https://processing.org/download/?processing link to open resource for download.
 
 # Run GA_maze
-After installing Processing, go to Tools> Manage Tools.. and switch to the Libraries tab. Install the Minim library.
-Following this step, you may clone this repository to your local hard drive and run the program by opening the GA_maze file in Processing.
+After installing Processing, you may clone this repository to your local hard drive
+and run the program by opening the GA_maze file in Processing.
 
 # Controls
 \* SET CROSSOVERRATE TO 0 FOR STOCHASTIC BEAM ******\
